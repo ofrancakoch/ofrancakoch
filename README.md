@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Octavio França Koch</h1>
-<h3 align="center">Interested in Data Analysis and Machine Learning!</h3>
+<h3 align="center">Interested in Computer Science!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas, Matplotlib, Seaborn**
+- 🌱 I’m currently learning **Linux**
 
 - ⚡ Fun fact **Obsessed for Learning**
 
