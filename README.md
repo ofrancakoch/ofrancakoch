@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am passionate about electronics and Machine Learning, and my ultimate goal is to leverage these fields to build innovative solutions and start my own business.<br>I strive to combine hardware and intelligent algorithms to create impactful projects that solve real-world problems. 🚀</p>
+<p align="left">I am passionate about Electronics and Machine Learning, and my ultimate goal is to leverage these fields to build innovative solutions and start my own business.<br>I strive to combine hardware and intelligent algorithms to create impactful projects that solve real-world problems. 🚀</p>
 
 ###
 
